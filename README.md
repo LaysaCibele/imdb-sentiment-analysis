@@ -122,6 +122,8 @@ docs/Relatorio_Analise_de_Sentimentos_IMDB.pdf
 
 ---
 
+Observação: Os resultados apresentados neste projeto correspondem à configuração experimental utilizada durante os testes (pré-processamento, divisão dos dados, hiperparâmetros e técnicas de vetorização adotadas). Alterações nesses parâmetros podem produzir resultados diferentes e modificar o desempenho relativo dos modelos avaliados.
+
 ## 👩‍💻 Autora
 
 Laysa Cibele
